@@ -7,3 +7,23 @@ Competitivo de pokemon
 		-Ataque especial
 		-Defesa especial
 		-Velocidade
+
+	2.Tipo do pokemon:
+		-Planta
+		-Fogo
+		-Água
+		-Elétrico
+		-Voador
+		-Normal
+		-Terra
+		-Rocha
+		-Psíquico
+		-Inseto
+		-Venenoso
+		-Lutador
+		-Gelo
+		-Fantasma
+		-Sombrio
+		-Metálico
+		-Dragão
+		-Fada
