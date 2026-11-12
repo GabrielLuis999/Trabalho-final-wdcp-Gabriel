@@ -7,6 +7,10 @@ Competitivo de pokemon
 		-Ataque especial
 		-Defesa especial
 		-Velocidade
+	
+		*IVs (Individual values) - Mudança de status com a qual o Pokémon nasce
+		*EVs (Effort values) - Mudança de status vinda do treino do Pokémon
+		*Status base - Status de uma determinada espécie de Pokémon, não de um elemento em específico
 
 	2.Tipo do pokemon:
 		-Planta
