@@ -31,3 +31,5 @@ Competitivo de pokemon
 		-Metálico
 		-Dragão
 		-Fada
+
+		*STAB (Same type attack bonus) - Se usares um golpe do mesmo tipo de o Pokémon utilizador, o dano do mesmo é aumentado 1,5X
