@@ -1,0 +1,9 @@
+Competitivo de pokemon
+ - Pontos a ter atenção:
+	1.Status:
+		-Hp
+		-Ataque
+		-Defesa
+		-Ataque especial
+		-Defesa especial
+		-Velocidade
